@@ -1,0 +1,2 @@
+# MCPlugin
+Plugin for Minecraft
